@@ -11,3 +11,5 @@ More edits coming
 # Contribute
 
 Hello Users, follow the process
+
+more processs and docs
